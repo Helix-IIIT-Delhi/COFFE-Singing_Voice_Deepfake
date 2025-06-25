@@ -30,12 +30,6 @@ noff Distance as novel loss function for effective fusion of FMs.
 
 ---
 
-### 📅 News & Milestones
-- **▢ Date:** ▢ Short note (e.g. “ArXiv preprint released”)
-- **▢ Date:** ▢ Short note (e.g. “Code released”)
-
----
-
 <div align="center">
     <img src="./sing_fake_archi1.jpg" alt="Pipeline" style="width: 50%;"/>
 </div>
