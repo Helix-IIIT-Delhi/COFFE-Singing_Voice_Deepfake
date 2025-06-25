@@ -5,6 +5,8 @@
 [[ArXiv]](https://arxiv.org/pdf/2506.03364), [[IEEE-SPL]](https://arxiv.org/pdf/2506.03364)
 </div>
 
+---
+
 **Description**  
 ▢  In this work, we introduce the task of singing voice deep
 fake source attribution (SVDSA). We hypothesize that multi
@@ -26,10 +28,13 @@ noff Distance as novel loss function for effective fusion of FMs.
  Index Terms: Source Attribution, Singing Voice Deepfake,
  Deepfake Detection
 
+---
 
 <div align="center">
     <img src="./sing_fake_archi1.jpg" alt="Pipeline" style="width: 50%;"/>
 </div>
+
+---
 
 ```bibtex
 
