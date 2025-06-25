@@ -2,7 +2,7 @@
 
 # COFFE (Fusion using ChernOFF DistancE)
 ## Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models
-[[ArXiv]](https://arxiv.org/pdf/2506.03364), [[IEEE-SPL]](https://arxiv.org/pdf/2506.03364), [INTERSPEECH 2025]
+[[ArXiv]](https://arxiv.org/pdf/2506.03364), [INTERSPEECH 2025]
 </div>
 
 ---
