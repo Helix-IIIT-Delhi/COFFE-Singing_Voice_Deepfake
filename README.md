@@ -41,6 +41,8 @@ noff Distance as novel loss function for effective fusion of FMs.
 </div>
 
 ---
+## Citation
+If you find this work useful, please consider citing us:
 
 ```bibtex
 
