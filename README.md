@@ -8,7 +8,7 @@
 ---
 
 **Description**  
-▢  In this work, we introduce the task of singing voice deep
+In this work, we introduce the task of singing voice deep
 fake source attribution (SVDSA). We hypothesize that multi
 modal foundation models (MMFMs) such as ImageBind, Lan
 guageBind will be most effective for SVDSA as they are bet
