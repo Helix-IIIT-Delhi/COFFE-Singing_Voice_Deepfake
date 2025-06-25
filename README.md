@@ -5,6 +5,28 @@
 [[ArXiv]](https://arxiv.org/pdf/2506.03364), [[IEEE-SPL]](https://arxiv.org/pdf/2506.03364)
 </div>
 
+**Description**  
+▢  In this work, we introduce the task of singing voice deep
+fake source attribution (SVDSA). We hypothesize that multi
+modal foundation models (MMFMs) such as ImageBind, Lan
+guageBind will be most effective for SVDSA as they are bet
+ter equipped for capturing subtle source-specific characteris
+tics—such as unique timbre, pitch manipulation, or synthesis
+ artifacts of each singing voice deepfake source due to their cross
+modality pre-training. Our experiments with MMFMs, speech
+ foundation models and music foundation models verify the hy
+pothesis that MMFMs are the most effective for SVDSA. Fur
+thermore, inspired from related research, we also explore fusion
+ of foundation models (FMs) for improved SVDSA. To this end,
+ we propose a novel framework, COFFE which employs Cher
+noff Distance as novel loss function for effective fusion of FMs.
+ Through COFFE with the symphony of MMFMs, we attain the
+ topmost performance in comparison to all the individual FMs
+ and baseline fusion methods.
+ Index Terms: Source Attribution, Singing Voice Deepfake,
+ Deepfake Detection
+
+
 <div align="center">
     <img src="./sing_fake_archi1.jpg" alt="Pipeline" style="width: 50%;"/>
 </div>
