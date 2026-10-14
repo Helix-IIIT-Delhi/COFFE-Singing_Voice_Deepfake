@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+.vscode/
+.idea/
+*.swp
+*~
+models/
+results/
+logs/
+*.egg-info/
