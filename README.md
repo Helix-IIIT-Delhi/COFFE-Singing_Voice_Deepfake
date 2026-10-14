@@ -247,17 +247,6 @@ If you find this work useful, please consider citing us:
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## Authors
-
-- **Orchid Chetia Phukan**
-- **Girish**
-- **Mohd Mujtaba Akhtar**
-- **Swarup Ranjan Behera**
-- **Priyabrata Mallick**
-- **Pailla Balakrishna Reddy**
-- **Arun Balaji Buduru**
-- **Rajesh Sharma**
-
 ---
 
 <div align="center">
