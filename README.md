@@ -2,8 +2,6 @@
 
 # COFFE: Singing Voice Deepfake Source Attribution via Chernoff Distance Fusion
 
-## Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models
-
 [![Paper](https://img.shields.io/badge/Paper-Interspeech%202025-blue)](https://interspeech2025.org)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.03364-b31b1b.svg)](https://arxiv.org/pdf/2506.03364)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -14,12 +12,6 @@
 
 ---
 
-## Overview
-
-**COFFE** introduces a novel framework for **Singing Voice Deepfake Source Attribution (SVDSA)** - identifying which system generated a synthetic singing voice. 
-
-The key innovation is demonstrating that **multimodal foundation models** (ImageBind, LanguageBind) excel at this task due to their cross-modal pre-training. By fusing these models using **Chernoff distance**, COFFE achieves **state-of-the-art** performance on source attribution.
-
 ## Paper Details
 
 **Title**: Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models
@@ -29,6 +21,14 @@ The key innovation is demonstrating that **multimodal foundation models** (Image
 **Conference**: Interspeech 2025
 
 **Paper Link**: [arXiv](https://arxiv.org/abs/2506.03364)
+
+---
+
+## Overview
+
+**COFFE** introduces a novel framework for **Singing Voice Deepfake Source Attribution (SVDSA)** - identifying which system generated a synthetic singing voice. 
+
+The key innovation is demonstrating that **multimodal foundation models** (ImageBind, LanguageBind) excel at this task due to their cross-modal pre-training. By fusing these models using **Chernoff distance**, COFFE achieves **state-of-the-art** performance on source attribution.
 
 ## Abstract
 
