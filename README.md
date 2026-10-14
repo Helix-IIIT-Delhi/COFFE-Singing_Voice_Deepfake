@@ -20,8 +20,6 @@
 
 **Conference**: Interspeech 2025
 
-**Paper Link**: [arXiv](https://arxiv.org/abs/2506.03364)
-
 ---
 
 ## Overview
